@@ -6,7 +6,7 @@
         "serve": "vue-cli-service serve",
         "build": "vue-cli-service build",
         "deploy": "gh-pages -d dist",
-        "homepage": "https://majdmohamad.github.io/mmm",
+        "homepage": "https://majdmohamad.github.io/project-vue",
         "test:unit": "vue-cli-service test:unit",
         "lint": "vue-cli-service lint"
     },
